@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    width="200"
-    src="https://raw.githubusercontent.com/pu-dev/pu-dev/main/assets/icon.webp" 
+    height="240"
+    src="https://raw.githubusercontent.com/pu-dev/pu-dev/main/assets/walking.webp" 
   /> 
 </div>
